@@ -248,9 +248,9 @@ def main():
     X_processed, scaler, preprocessor = preprocess_features(features)
     
     # Save preprocessing objects for future use
-    joblib.dump(scaler, 'scaler.pkl')
-    joblib.dump(preprocessor, 'preprocessor.pkl')
-    joblib.dump(product_encoder, 'product_encoder.pkl')
+    joblib.dump(scaler, 'PremiumPredictionModel/scaler.pkl')
+    joblib.dump(preprocessor, 'PremiumPredictionModel/preprocessor.pkl')
+    joblib.dump(product_encoder, 'PremiumPredictionModel/product_encoder.pkl')
     
     # Train-test split
     X_train, X_test, y_reg_train, y_reg_test, y_class_train, y_class_test = \
@@ -272,7 +272,7 @@ def main():
     evaluate_model(model, X_test, y_reg_test, y_class_test)
     
     # Save trained model
-    model.save('insurance_nn_model_no_child.keras')
+    model.save('PremiumPredictionModel/insurance_nn_model_no_child.keras')
     print("\nModel saved successfully in Keras format!")
 
 if __name__ == "__main__":

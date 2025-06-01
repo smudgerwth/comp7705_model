@@ -7,9 +7,9 @@ from tensorflow.keras.models import load_model
 app = Flask(__name__)
 
 # Load model and preprocessing objects
-model = load_model('insurance_nn_model_no_child.keras')  # Neural network model
-scaler = joblib.load('scaler.pkl')  # Feature scaler
-preprocessor = joblib.load('preprocessor.pkl')  # Column transformer
+model = load_model('PremiumPredictionModel/insurance_nn_model_no_child.keras')  # Neural network model
+scaler = joblib.load('PremiumPredictionModel/scaler.pkl')  # Feature scaler
+preprocessor = joblib.load('PremiumPredictionModel/preprocessor.pkl')  # Column transformer
 
 # Bin configurations for age groups and BMI categories
 AGE_BINS = [18, 25, 35, 45, 55, 65]
