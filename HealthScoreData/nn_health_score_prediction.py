@@ -206,3 +206,47 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# (comp7705_env) macbookpro@Mac-mini comp7705_model % python HealthScoreData/health_score_prediction.py 
+# Loading dataset: HealthScoreData/synthetic_expanded_health_data.csv...
+# Dataset loaded successfully. Shape: (200000, 8)
+
+# Features selected: ['Age', 'BMI', 'Exercise_Frequency', 'Sleep_Hours', 'Smoking_Status']
+# Target selected: Health_Score
+
+# Checking for missing values...
+# No missing values found in the selected features.
+# No missing values found in the target variable.
+
+# Data split into training and testing sets:
+# X_train shape: (160000, 5) (80.00%)
+# X_test shape: (40000, 5) (20.00%)
+# y_train shape: (160000,)
+# y_test shape: (40000,)
+
+# --- Training Linear Regression Model ---
+# Linear Regression Model trained.
+
+# --- Training Random Forest Regressor Model ---
+# (This may take a moment for a large dataset)...
+# Random Forest Regressor Model trained.
+
+# --- Linear Regression Model Evaluation ---
+# MAE: 8.6267, MSE: 116.9050, RMSE: 10.8123, R²: 0.3644
+
+# --- Random Forest Regressor Model Evaluation ---
+# MAE: 2.6624, MSE: 17.8098, RMSE: 4.2202, R²: 0.9032
+
+# Feature Importances (from Random Forest Regressor):
+#               Feature  Importance
+# 1                 BMI    0.302404
+# 3         Sleep_Hours    0.255755
+# 0                 Age    0.211438
+# 2  Exercise_Frequency    0.174631
+# 4      Smoking_Status    0.055772
+
+# --- Exporting Random Forest Model ---
+# Random Forest model saved successfully as 'random_forest_health_score_model.joblib'
+
+# --- Script Finished ---
