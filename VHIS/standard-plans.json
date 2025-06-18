@@ -1,0 +1,2380 @@
+{
+  "certified-plans": [
+    {
+      "plan-name": {
+        "en": "AIA Voluntary Health Insurance Standard Scheme",
+        "zh-hk": "AIA自願醫保標準計劃",
+        "zh-cn": "AIA自愿医保标准计划"
+      },
+      "company-name": {
+        "en": "AIA International Limited",
+        "zh-hk": "友邦保險（國際）有限公司",
+        "zh-cn": "友邦保险（国际）有限公司"
+      },
+      "plan-date": {
+        "en": "15 July 2024",
+        "zh-hk": "2024年7月15日",
+        "zh-cn": "2024年7月15日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00013-01-000-02",
+          "product-id": "S00013-01-000-02-002",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00013/S00013-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00013/S00013-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00013/S00013-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00013/S00013-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00013/S00013-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00013/S00013-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00013-01-000-02-001"
+        }
+      ],
+      "has-other-info": "Y",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00013/S00013-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00013/S00013-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00013/S00013-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00013/S00013-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00013/S00013-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00013/S00013-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Asia Unique - Family Care",
+        "zh-hk": "延愛",
+        "zh-cn": "延爱"
+      },
+      "company-name": {
+        "en": "Asia Insurance Company, Limited",
+        "zh-hk": "亞洲保險有限公司",
+        "zh-cn": "亚洲保险有限公司"
+      },
+      "plan-date": {
+        "en": "1 April 2021",
+        "zh-hk": "2021年4月1日",
+        "zh-cn": "2021年4月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00027-01-000-02",
+          "product-id": "S00027-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00027/S00027-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00027/S00027-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00027/S00027-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00027/S00027-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00027/S00027-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00027/S00027-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00027-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00027/S00027-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00027/S00027-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00027/S00027-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00027/S00027-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00027/S00027-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00027/S00027-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Avo Voluntary Health Insurance Scheme (Standard) Plan",
+        "zh-hk": "Avo自願醫保（標準）計劃",
+        "zh-cn": "Avo自愿医保（标准）计划"
+      },
+      "company-name": {
+        "en": "Avo Insurance Company Limited",
+        "zh-hk": "安我保險有限公司",
+        "zh-cn": "安我保险有限公司"
+      },
+      "plan-date": {
+        "en": "1 December 2021",
+        "zh-hk": "2021年12月1日",
+        "zh-cn": "2021年12月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 December 2020",
+        "zh-hk": "2020年12月1日",
+        "zh-cn": "2020年12月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00043-01-000-01",
+          "product-id": "S00043-01-000-01-002",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00043/S00043-01-000-01-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00043/S00043-01-000-01-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00043/S00043-01-000-01-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00043/S00043-01-000-01-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00043/S00043-01-000-01-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00043/S00043-01-000-01-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00043-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00043/S00043-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00043/S00043-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00043/S00043-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00043/S00043-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00043/S00043-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00043/S00043-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "AXA WiseGuard Medical Insurance Plan",
+        "zh-hk": "AXA安盛守慧醫療保障",
+        "zh-cn": "AXA安盛守慧医疗保障"
+      },
+      "company-name": {
+        "en": "AXA China Region Insurance Company (Bermuda) Limited",
+        "zh-hk": "安盛保險（百慕達）有限公司",
+        "zh-cn": "安盛保险（百慕达）有限公司"
+      },
+      "plan-date": {
+        "en": "22 March 2021",
+        "zh-hk": "2021年3月22日",
+        "zh-cn": "2021年3月22日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00014-01-000-02",
+          "product-id": "S00014-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00014/S00014-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00014/S00014-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00014/S00014-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00014/S00014-01-000-02-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00014/S00014-01-000-02-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00014/S00014-01-000-02-StandardPremium-c.pdf"
+          },
+          "parent-product-id": "S00014-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00014/S00014-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00014/S00014-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00014/S00014-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00014/S00014-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00014/S00014-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00014/S00014-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "AXA WiseGuard Medical Insurance Plan",
+        "zh-hk": "AXA安盛守慧醫療保障",
+        "zh-cn": "AXA安盛守慧医疗保障"
+      },
+      "company-name": {
+        "en": "AXA China Region Insurance Company Limited",
+        "zh-hk": "安盛金融有限公司",
+        "zh-cn": "安盛金融有限公司"
+      },
+      "plan-date": {
+        "en": "22 March 2021",
+        "zh-hk": "2021年3月22日",
+        "zh-cn": "2021年3月22日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00033-01-000-02",
+          "product-id": "S00033-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00033/S00033-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00033/S00033-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00033/S00033-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00033/S00033-01-000-02-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00033/S00033-01-000-02-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00033/S00033-01-000-02-StandardPremium-c.pdf"
+          },
+          "parent-product-id": "S00033-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00033/S00033-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00033/S00033-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00033/S00033-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00033/S00033-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00033/S00033-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00033/S00033-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "AXA GI WiseGuard Medical Insurance Plan",
+        "zh-hk": "AXA安盛保險守慧醫療保障",
+        "zh-cn": "AXA安盛保险守慧医疗保障"
+      },
+      "company-name": {
+        "en": "AXA General Insurance Hong Kong Limited",
+        "zh-hk": "安盛保險有限公司",
+        "zh-cn": "安盛保险有限公司"
+      },
+      "plan-date": {
+        "en": "22 March 2021",
+        "zh-hk": "2021年3月22日",
+        "zh-cn": "2021年3月22日"
+      },
+      "earliest-plan-date": {
+        "en": "19 August 2019",
+        "zh-hk": "2019年8月19日",
+        "zh-cn": "2019年8月19日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00038-01-000-02",
+          "product-id": "S00038-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00038/S00038-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00038/S00038-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00038/S00038-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00038/S00038-01-000-02-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00038/S00038-01-000-02-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00038/S00038-01-000-02-StandardPremium-c.pdf"
+          },
+          "parent-product-id": "S00038-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00038/S00038-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00038/S00038-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00038/S00038-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00038/S00038-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00038/S00038-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00038/S00038-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "BOC Standard Voluntary Health Insurance Scheme Certified Plan",
+        "zh-hk": "中銀標準自願醫保計劃認可產品",
+        "zh-cn": "中银标准自愿医保计划认可产品"
+      },
+      "company-name": {
+        "en": "Bank of China Group Insurance Company Limited",
+        "zh-hk": "中銀集團保險有限公司",
+        "zh-cn": "中银集团保险有限公司"
+      },
+      "plan-date": {
+        "en": "1 April 2021",
+        "zh-hk": "2021年4月1日",
+        "zh-cn": "2021年4月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00035-01-000-02",
+          "product-id": "S00035-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00035/S00035-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00035/S00035-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00035/S00035-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00035/S00035-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00035/S00035-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00035/S00035-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00035-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00035/S00035-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00035/S00035-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00035/S00035-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00035/S00035-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00035/S00035-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00035/S00035-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "CareForYou Standard Plan for VHIS",
+        "zh-hk": "「只衛您」標準自願醫保計劃",
+        "zh-cn": "「只卫您」标准自愿医保计划"
+      },
+      "company-name": {
+        "en": "Blue Cross (Asia-Pacific) Insurance Limited",
+        "zh-hk": "藍十字（亞太）保險有限公司",
+        "zh-cn": "蓝十字（亚太）保险有限公司"
+      },
+      "plan-date": {
+        "en": "1 January 2025",
+        "zh-hk": "2025年1月1日",
+        "zh-cn": "2025年1月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00032-01-000-02",
+          "product-id": "S00032-01-000-02-005",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00032/S00032-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00032/S00032-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00032/S00032-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00032/S00032-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00032/S00032-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00032/S00032-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00032-01-000-02-004"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00032/S00032-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00032/S00032-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00032/S00032-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00032/S00032-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00032/S00032-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00032/S00032-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "BOC Life Standard VHIS",
+        "zh-hk": "中銀人壽標準自願醫保",
+        "zh-cn": "中银人寿标准自愿医保"
+      },
+      "company-name": {
+        "en": "BOC Group Life Assurance Company Limited",
+        "zh-hk": "中銀集團人壽保險有限公司",
+        "zh-cn": "中银集团人寿保险有限公司"
+      },
+      "plan-date": {
+        "en": "28 March 2021",
+        "zh-hk": "2021年3月28日",
+        "zh-cn": "2021年3月28日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00022-01-000-02",
+          "product-id": "S00022-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00022/S00022-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00022/S00022-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00022/S00022-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00022/S00022-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00022/S00022-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00022/S00022-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00022-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00022/S00022-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00022/S00022-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00022/S00022-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00022/S00022-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00022/S00022-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00022/S00022-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "VChoice Voluntary Health Insurance Plan",
+        "zh-hk": "智適簡自願醫療保險計劃",
+        "zh-cn": "智适简自愿医疗保险计划"
+      },
+      "company-name": {
+        "en": "Bolttech Insurance (Hong Kong) Company Limited",
+        "zh-hk": "保特保險（香港）有限公司",
+        "zh-cn": "保特保险（香港）有限公司"
+      },
+      "plan-date": {
+        "en": "23 June 2023",
+        "zh-hk": "2023年6月23日",
+        "zh-cn": "2023年6月23日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00012-01-000-03",
+          "product-id": "S00012-01-000-03-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00012/S00012-01-000-03-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00012/S00012-01-000-03-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00012/S00012-01-000-03-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00012/S00012-01-000-03-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00012/S00012-01-000-03-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00012/S00012-01-000-03-StandardPremium-c.pdf"
+          },
+          "parent-product-id": "S00012-01-000-02-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00012/S00012-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00012/S00012-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00012/S00012-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00012/S00012-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00012/S00012-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00012/S00012-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Bowtie VHIS Standard",
+        "zh-hk": "保泰自願醫保 - 標準計劃",
+        "zh-cn": "保泰自愿医保 - 标准计划"
+      },
+      "company-name": {
+        "en": "Bowtie Life Insurance Company Limited",
+        "zh-hk": "保泰人壽保險有限公司",
+        "zh-cn": "保泰人寿保险有限公司"
+      },
+      "plan-date": {
+        "en": "19 December 2024",
+        "zh-hk": "2024年12月19日",
+        "zh-cn": "2024年12月19日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00023-01-000-03",
+          "product-id": "S00023-01-000-03-002",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00023/S00023-01-000-03-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00023/S00023-01-000-03-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00023/S00023-01-000-03-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00023/S00023-01-000-03-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00023/S00023-01-000-03-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00023/S00023-01-000-03-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00023-01-000-03-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00023/S00023-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00023/S00023-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00023/S00023-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00023/S00023-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00023/S00023-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00023/S00023-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Bupa MyBasic VHIS Plan",
+        "zh-hk": "保柏自願醫保計劃",
+        "zh-cn": "保柏自愿医保计划"
+      },
+      "company-name": {
+        "en": "Bupa (Asia) Limited",
+        "zh-hk": "保柏（亞洲）有限公司",
+        "zh-cn": "保柏（亚洲）有限公司"
+      },
+      "plan-date": {
+        "en": "2 March 2025",
+        "zh-hk": "2025年3月2日",
+        "zh-cn": "2025年3月2日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00020-01-000-02",
+          "product-id": "S00020-01-000-02-003",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00020/S00020-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00020/S00020-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00020/S00020-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00020/S00020-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00020/S00020-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00020/S00020-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00020-01-000-02-002"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00020/S00020-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00020/S00020-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00020/S00020-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00020/S00020-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00020/S00020-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00020/S00020-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Guard Your Health Medical Insurance Plan",
+        "zh-hk": "衛您健康醫療保險計劃",
+        "zh-cn": "卫您健康医疗保险计划"
+      },
+      "company-name": {
+        "en": "China Life Insurance (Overseas) Company Limited",
+        "zh-hk": "中國人壽保險（海外）股份有限公司",
+        "zh-cn": "中国人寿保险（海外）股份有限公司"
+      },
+      "plan-date": {
+        "en": "1 April 2021",
+        "zh-hk": "2021年4月1日",
+        "zh-cn": "2021年4月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00021-01-000-02",
+          "product-id": "S00021-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00021/S00021-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00021/S00021-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00021/S00021-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00021/S00021-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00021/S00021-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00021/S00021-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00021-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00021/S00021-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00021/S00021-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00021/S00021-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00021/S00021-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00021/S00021-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00021/S00021-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Taiping Voluntary Health Insurance Scheme Standard Plan",
+        "zh-hk": "太平自願醫療標準保險計劃",
+        "zh-cn": "太平自愿医疗标准保险计划"
+      },
+      "company-name": {
+        "en": "China Taiping Insurance (HK) Company Limited",
+        "zh-hk": "中國太平保險（香港）有限公司",
+        "zh-cn": "中国太平保险（香港）有限公司"
+      },
+      "plan-date": {
+        "en": "1 April 2021",
+        "zh-hk": "2021年4月1日",
+        "zh-cn": "2021年4月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00016-01-000-02",
+          "product-id": "S00016-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00016/S00016-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00016/S00016-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00016/S00016-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00016/S00016-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00016/S00016-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00016/S00016-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00016-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00016/S00016-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00016/S00016-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00016/S00016-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00016/S00016-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00016/S00016-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00016/S00016-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Taiping Life VHIS Standard Plan",
+        "zh-hk": "太平人壽自願醫保標準計劃",
+        "zh-cn": "太平人寿自愿医保标准计划"
+      },
+      "company-name": {
+        "en": "China Taiping Life Insurance (Hong Kong) Company Limited",
+        "zh-hk": "中國太平人壽保險（香港）有限公司",
+        "zh-cn": "中国太平人寿保险（香港）有限公司"
+      },
+      "plan-date": {
+        "en": "7 July 2021",
+        "zh-hk": "2021年7月7日",
+        "zh-cn": "2021年7月7日"
+      },
+      "earliest-plan-date": {
+        "en": "25 October 2019",
+        "zh-hk": "2019年10月25日",
+        "zh-cn": "2019年10月25日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00039-01-000-02",
+          "product-id": "S00039-01-000-02-002",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00039/S00039-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00039/S00039-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00039/S00039-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00039/S00039-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00039/S00039-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00039/S00039-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00039-01-000-02-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00039/S00039-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00039/S00039-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00039/S00039-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00039/S00039-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00039/S00039-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00039/S00039-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "''WiseCare'' Medical Insurance Plan",
+        "zh-hk": "「卓康保」醫療保障計劃",
+        "zh-cn": "「卓康保」医疗保障计划"
+      },
+      "company-name": {
+        "en": "Chow Tai Fook Life Insurance Co Ltd",
+        "zh-hk": "周大福人壽保險有限公司",
+        "zh-cn": "周大福人寿保险有限公司"
+      },
+      "plan-date": {
+        "en": "23 November 2024",
+        "zh-hk": "2024年11月23日",
+        "zh-cn": "2024年11月23日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00028-01-000-03",
+          "product-id": "S00028-01-000-03-002",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00028/S00028-01-000-03-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00028/S00028-01-000-03-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00028/S00028-01-000-03-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00028/S00028-01-000-03-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00028/S00028-01-000-03-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00028/S00028-01-000-03-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00028-01-000-03-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00028/S00028-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00028/S00028-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00028/S00028-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00028/S00028-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00028/S00028-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00028/S00028-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Chubb VHIS - Standard Plan",
+        "zh-hk": "安達自願醫保（標準）計劃",
+        "zh-cn": "安达自愿医保（标准）计划"
+      },
+      "company-name": {
+        "en": "Chubb Life Insurance Hong Kong Limited",
+        "zh-hk": "安達人壽保險香港有限公司",
+        "zh-cn": "安达人寿保险香港有限公司"
+      },
+      "plan-date": {
+        "en": "1 April 2025",
+        "zh-hk": "2025年4月1日",
+        "zh-cn": "2025年4月1日"
+      },
+      "earliest-plan-date": {
+        "en": "24 March 2021",
+        "zh-hk": "2021年3月24日",
+        "zh-cn": "2021年3月24日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00044-01-000-03",
+          "product-id": "S00044-01-000-03-003",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00044/S00044-01-000-03-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00044/S00044-01-000-03-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00044/S00044-01-000-03-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00044/S00044-01-000-03-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00044/S00044-01-000-03-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00044/S00044-01-000-03-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00044-01-000-03-002"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00044/S00044-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00044/S00044-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00044/S00044-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00044/S00044-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00044/S00044-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00044/S00044-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Cigna VHIS Series - Standard Plan",
+        "zh-hk": "信諾自願醫保系列－標準計劃",
+        "zh-cn": "信诺自愿医保系列－标准计划"
+      },
+      "company-name": {
+        "en": "CIGNA Worldwide General Insurance Company Limited",
+        "zh-hk": "信諾環球保險有限公司",
+        "zh-cn": "信诺环球保险有限公司"
+      },
+      "plan-date": {
+        "en": "1 July 2024",
+        "zh-hk": "2024年7月1日",
+        "zh-cn": "2024年7月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00031-01-000-02",
+          "product-id": "S00031-01-000-02-004",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00031/S00031-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00031/S00031-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00031/S00031-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00031/S00031-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00031/S00031-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00031/S00031-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00031-01-000-02-003"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00031/S00031-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00031/S00031-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00031/S00031-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00031/S00031-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00031/S00031-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00031/S00031-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Dah Sing Insurance ADVANTAGE VHIS Standard Plan",
+        "zh-hk": "大新保險「尚護康」自願醫保標準計劃",
+        "zh-cn": "大新保险「尚护康」自愿医保标准计划"
+      },
+      "company-name": {
+        "en": "Dah Sing Insurance Company Limited",
+        "zh-hk": "大新保險有限公司",
+        "zh-cn": "大新保险有限公司"
+      },
+      "plan-date": {
+        "en": "5 November 2024",
+        "zh-hk": "2024年11月5日",
+        "zh-cn": "2024年11月5日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00019-01-000-03",
+          "product-id": "S00019-01-000-03-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00019/S00019-01-000-03-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00019/S00019-01-000-03-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00019/S00019-01-000-03-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00019/S00019-01-000-03-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00019/S00019-01-000-03-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00019/S00019-01-000-03-StandardPremium-c.pdf"
+          },
+          "parent-product-id": "S00019-01-000-02-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00019/S00019-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00019/S00019-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00019/S00019-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00019/S00019-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00019/S00019-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00019/S00019-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "vCore Medical Plan",
+        "zh-hk": "確衛您醫療計劃",
+        "zh-cn": "确卫您医疗计划"
+      },
+      "company-name": {
+        "en": "FWD Life Insurance Company (Bermuda) Limited",
+        "zh-hk": "富衛人壽保險（百慕達）有限公司",
+        "zh-cn": "富卫人寿保险（百慕达）有限公司"
+      },
+      "plan-date": {
+        "en": "15 January 2025",
+        "zh-hk": "2025年1月15日",
+        "zh-cn": "2025年1月15日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00036-01-000-02",
+          "product-id": "S00036-01-000-02-003",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00036/S00036-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00036/S00036-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00036/S00036-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00036/S00036-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00036/S00036-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00036/S00036-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00036-01-000-02-002"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00036/S00036-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00036/S00036-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00036/S00036-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00036/S00036-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00036/S00036-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00036/S00036-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Health Essential Medical Plan - Standard",
+        "zh-hk": "「摯健樂」醫療計劃 – 基本",
+        "zh-cn": "「挚健乐」医疗计划 – 基本"
+      },
+      "company-name": {
+        "en": "Hong Kong Life Insurance Limited",
+        "zh-hk": "香港人壽保險有限公司",
+        "zh-cn": "香港人寿保险有限公司"
+      },
+      "plan-date": {
+        "en": "26 August 2024",
+        "zh-hk": "2024年8月26日",
+        "zh-cn": "2024年8月26日"
+      },
+      "earliest-plan-date": {
+        "en": "17 July 2019",
+        "zh-hk": "2019年7月17日",
+        "zh-cn": "2019年7月17日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00037-01-000-02",
+          "product-id": "S00037-01-000-02-002",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00037/S00037-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00037/S00037-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00037/S00037-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00037/S00037-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00037/S00037-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00037/S00037-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00037-01-000-02-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00037/S00037-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00037/S00037-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00037/S00037-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00037/S00037-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00037/S00037-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00037/S00037-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "HSBC Voluntary Health Insurance Standard Plan",
+        "zh-hk": "滙豐自願醫保標準計劃",
+        "zh-cn": "汇丰自愿医保标准计划"
+      },
+      "company-name": {
+        "en": "HSBC Life (International) Limited",
+        "zh-hk": "滙豐人壽保險（國際）有限公司",
+        "zh-cn": "汇丰人寿保险（国际）有限公司"
+      },
+      "plan-date": {
+        "en": "29 March 2021",
+        "zh-hk": "2021年3月29日",
+        "zh-cn": "2021年3月29日"
+      },
+      "earliest-plan-date": {
+        "en": "20 July 2020",
+        "zh-hk": "2020年7月20日",
+        "zh-cn": "2020年7月20日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00042-01-000-02",
+          "product-id": "S00042-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00042/S00042-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00042/S00042-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00042/S00042-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00042/S00042-01-000-02-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00042/S00042-01-000-02-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00042/S00042-01-000-02-StandardPremium-c.pdf"
+          },
+          "parent-product-id": "S00042-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00042/S00042-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00042/S00042-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00042/S00042-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00042/S00042-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00042/S00042-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00042/S00042-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Liberty Insurance Standard VHIS Plan",
+        "zh-hk": "利寶國際自願醫保標準計劃",
+        "zh-cn": "利宝国际自愿医保标准计划"
+      },
+      "company-name": {
+        "en": "Liberty International Insurance Limited",
+        "zh-hk": "利寶國際保險有限公司",
+        "zh-cn": "利宝国际保险有限公司"
+      },
+      "plan-date": {
+        "en": "1 July 2021",
+        "zh-hk": "2021年7月1日",
+        "zh-cn": "2021年7月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00017-01-000-02",
+          "product-id": "S00017-01-000-02-002",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00017/S00017-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00017/S00017-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00017/S00017-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00017/S00017-01-000-02-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00017/S00017-01-000-02-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00017/S00017-01-000-02-StandardPremium-c.pdf"
+          },
+          "parent-product-id": "S00017-01-000-02-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00017/S00017-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00017/S00017-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00017/S00017-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00017/S00017-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00017/S00017-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00017/S00017-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Manulife Shelter VHIS Standard Plan",
+        "zh-hk": "宏利愛守護自願醫保標準計劃",
+        "zh-cn": "宏利爱守护自愿医保标准计划"
+      },
+      "company-name": {
+        "en": "Manulife (International) Limited",
+        "zh-hk": "宏利人壽保險（國際）有限公司",
+        "zh-cn": "宏利人寿保险（国际）有限公司"
+      },
+      "plan-date": {
+        "en": "1 January 2021",
+        "zh-hk": "2021年1月1日",
+        "zh-cn": "2021年1月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00034-01-000-02",
+          "product-id": "S00034-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00034/S00034-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00034/S00034-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00034/S00034-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00034/S00034-01-000-02-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00034/S00034-01-000-02-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00034/S00034-01-000-02-StandardPremium-c.pdf"
+          },
+          "parent-product-id": "S00034-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00034/S00034-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00034/S00034-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00034/S00034-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00034/S00034-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00034/S00034-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00034/S00034-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "VHIS Standard Care",
+        "zh-hk": "自願醫保計劃-適健保",
+        "zh-cn": "自愿医保计划-适健保"
+      },
+      "company-name": {
+        "en": "MSIG Insurance (Hong Kong) Limited",
+        "zh-hk": "三井住友海上火災保險（香港）有限公司",
+        "zh-cn": "三井住友海上火灾保险（香港）有限公司"
+      },
+      "plan-date": {
+        "en": "1 April 2021",
+        "zh-hk": "2021年4月1日",
+        "zh-cn": "2021年4月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00029-01-000-02",
+          "product-id": "S00029-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00029/S00029-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00029/S00029-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00029/S00029-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00029/S00029-01-000-02-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00029/S00029-01-000-02-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00029/S00029-01-000-02-StandardPremium-c.pdf"
+          },
+          "parent-product-id": "S00029-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00029/S00029-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00029/S00029-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00029/S00029-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00029/S00029-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00029/S00029-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00029/S00029-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "PRUHealth CoreChoice Medical Plan",
+        "zh-hk": "保誠自主醫保計劃",
+        "zh-cn": "保诚自主医保计划"
+      },
+      "company-name": {
+        "en": "Prudential Hong Kong Limited",
+        "zh-hk": "保誠保險有限公司",
+        "zh-cn": "保诚保险有限公司"
+      },
+      "plan-date": {
+        "en": "1 October 2024",
+        "zh-hk": "2024年10月1日",
+        "zh-cn": "2024年10月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00026-01-000-02",
+          "product-id": "S00026-01-000-02-002",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00026/S00026-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00026/S00026-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00026/S00026-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00026/S00026-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00026/S00026-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00026/S00026-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00026-01-000-02-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00026/S00026-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00026/S00026-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00026/S00026-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00026/S00026-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00026/S00026-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00026/S00026-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "WeHealth",
+        "zh-hk": "永明港健康醫療保",
+        "zh-cn": "永明港健康医疗保"
+      },
+      "company-name": {
+        "en": "Sun Life Hong Kong Limited",
+        "zh-hk": "香港永明金融有限公司",
+        "zh-cn": "香港永明金融有限公司"
+      },
+      "plan-date": {
+        "en": "1 April 2021",
+        "zh-hk": "2021年4月1日",
+        "zh-cn": "2021年4月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00018-01-000-02",
+          "product-id": "S00018-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00018/S00018-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00018/S00018-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00018/S00018-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00018/S00018-01-000-02-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00018/S00018-01-000-02-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00018/S00018-01-000-02-StandardPremium-c.pdf"
+          },
+          "parent-product-id": "S00018-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00018/S00018-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00018/S00018-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00018/S00018-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00018/S00018-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00018/S00018-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00018/S00018-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Well Protect Voluntary Health Insurance Scheme (Standard)",
+        "zh-hk": "立安心自願醫保標準計劃",
+        "zh-cn": "立安心自愿医保标准计划"
+      },
+      "company-name": {
+        "en": "Well Link Life Insurance Company Limited",
+        "zh-hk": "立橋人壽保險有限公司",
+        "zh-cn": "立桥人寿保险有限公司"
+      },
+      "plan-date": {
+        "en": "30 October 2020",
+        "zh-hk": "2020年10月30日",
+        "zh-cn": "2020年10月30日"
+      },
+      "earliest-plan-date": {
+        "en": "31 October 2019",
+        "zh-hk": "2019年10月31日",
+        "zh-cn": "2019年10月31日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00040-01-000-02",
+          "product-id": "S00040-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00040/S00040-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00040/S00040-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00040/S00040-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00040/S00040-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00040/S00040-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00040/S00040-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00040-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00040/S00040-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00040/S00040-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00040/S00040-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00040/S00040-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00040/S00040-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00040/S00040-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "TaxVantage Medical Plan",
+        "zh-hk": "「稅」優惠醫療計劃",
+        "zh-cn": "「税」优惠医疗计划"
+      },
+      "company-name": {
+        "en": "YF Life Insurance International Limited",
+        "zh-hk": "萬通保險國際有限公司",
+        "zh-cn": "万通保险国际有限公司"
+      },
+      "plan-date": {
+        "en": "1 January 2025",
+        "zh-hk": "2025年1月1日",
+        "zh-cn": "2025年1月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00025-01-000-02",
+          "product-id": "S00025-01-000-02-002",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00025/S00025-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00025/S00025-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00025/S00025-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00025/S00025-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00025/S00025-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00025/S00025-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00025-01-000-02-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00025/S00025-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00025/S00025-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00025/S00025-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00025/S00025-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00025/S00025-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00025/S00025-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "ZA VHIS",
+        "zh-hk": "ZA 自願醫保",
+        "zh-cn": "ZA 自愿医保"
+      },
+      "company-name": {
+        "en": "ZA Life Limited",
+        "zh-hk": "眾安人壽有限公司",
+        "zh-cn": "众安人寿有限公司"
+      },
+      "plan-date": {
+        "en": "21 May 2021",
+        "zh-hk": "2021年5月21日",
+        "zh-cn": "2021年5月21日"
+      },
+      "earliest-plan-date": {
+        "en": "21 May 2021",
+        "zh-hk": "2021年5月21日",
+        "zh-cn": "2021年5月21日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00045-01-000-01",
+          "product-id": "S00045-01-000-01-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00045/S00045-01-000-01-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00045/S00045-01-000-01-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00045/S00045-01-000-01-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00045/S00045-01-000-01-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00045/S00045-01-000-01-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00045/S00045-01-000-01-StandardPremium-c.pdf"
+          },
+          "parent-product-id": ""
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00045/S00045-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00045/S00045-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00045/S00045-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00045/S00045-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00045/S00045-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00045/S00045-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "HealthSure Voluntary Health Insurance Plan",
+        "zh-hk": "「智選守護」自願醫療保障計劃",
+        "zh-cn": "「智选守护」自愿医疗保障计划"
+      },
+      "company-name": {
+        "en": "Zurich Insurance Company Ltd",
+        "zh-hk": "蘇黎世保險有限公司",
+        "zh-cn": "苏黎世保险有限公司"
+      },
+      "plan-date": {
+        "en": "19 March 2021",
+        "zh-hk": "2021年3月19日",
+        "zh-cn": "2021年3月19日"
+      },
+      "earliest-plan-date": {
+        "en": "16 October 2019",
+        "zh-hk": "2019年10月16日",
+        "zh-cn": "2019年10月16日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00024-01-000-02",
+          "product-id": "S00024-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00024/S00024-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00024/S00024-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00024/S00024-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00024/S00024-01-000-02-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00024/S00024-01-000-02-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00024/S00024-01-000-02-StandardPremium-c.pdf"
+          },
+          "parent-product-id": "S00024-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00024/S00024-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00024/S00024-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00024/S00024-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00024/S00024-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00024/S00024-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00024/S00024-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "renewal-only": "",
+      "de-reg": "",
+      "unavailable": ""
+    },
+    {
+      "plan-name": {
+        "en": "Allianz Medical Protect",
+        "zh-hk": "安聯醫療保障",
+        "zh-cn": "安联医疗保障"
+      },
+      "company-name": {
+        "en": "Allianz Global Corporate & Specialty SE",
+        "zh-hk": "Allianz Global Corporate & Specialty SE",
+        "zh-cn": "Allianz Global Corporate & Specialty SE"
+      },
+      "plan-date": {
+        "en": "1 April 2021",
+        "zh-hk": "2021年4月1日",
+        "zh-cn": "2021年4月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00030-01-000-02",
+          "product-id": "S00030-01-000-02-001",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00030/S00030-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00030/S00030-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00030/S00030-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00030/S00030-01-000-02-StandardPremium-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00030/S00030-01-000-02-StandardPremium-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00030/S00030-01-000-02-StandardPremium-c.pdf"
+          },
+          "parent-product-id": "S00030-01-000-01-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00030/S00030-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00030/S00030-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00030/S00030-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "",
+      "def-doc-url": {
+        "en": "",
+        "zh-hk": "",
+        "zh-cn": ""
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "#The insurance company offering this Certified Plan has ceased to maintain its registration as a VHIS Provider from 1 July 2022.  Upon the effective date of de-registration, only renewals are available for existing policies of this Certified Plan.  Also, there will not be further updates of relevant product and premium on this webpage thereafter.  Please contact the insurance company for the latest updates of the Certified Plan.",
+        "zh-hk": "#提供本認可產品的保險公司由2022年7月1日起終止註冊為自願醫保的產品提供者。由該撤銷註冊生效日起，本認可產品謹供其現有保單作續保之用，本網頁亦由當日起停止更新其產品及保費資料。就有關認可產品的最新詳情，請聯絡有關保險公司查詢。",
+        "zh-cn": "#提供本认可产品的保险公司由2022年7月1日起终止注册为自愿医保的产品提供者。由该撤销注册生效日起，本认可产品谨供其现有保单作续保之用，本网页亦由当日起停止更新其产品及保费资料。就有关认可产品的最新详情，请联络有关保险公司查询。"
+      },
+      "renewal-only": "",
+      "de-reg": "Y",
+      "unavailable": "Y"
+    },
+    {
+      "plan-name": {
+        "en": "Chubb VHIS - Standard Plan",
+        "zh-hk": "安達自願醫保（標準）計劃",
+        "zh-cn": "安达自愿医保（标准）计划"
+      },
+      "company-name": {
+        "en": "Chubb Life Insurance Company Ltd.",
+        "zh-hk": "安達人壽保險有限公司",
+        "zh-cn": "安达人寿保险有限公司"
+      },
+      "plan-date": {
+        "en": "1 October 2022",
+        "zh-hk": "2022年10月1日",
+        "zh-cn": "2022年10月1日"
+      },
+      "earliest-plan-date": {
+        "en": "1 April 2019",
+        "zh-hk": "2019年4月1日",
+        "zh-cn": "2019年4月1日"
+      },
+      "plan-info-certified": [
+        {
+          "certification-no": "S00015-01-000-02",
+          "product-id": "S00015-01-000-02-002",
+          "plan-level": {
+            "en": "Standard Plan",
+            "zh-hk": "標準計劃",
+            "zh-cn": "标准计划"
+          },
+          "currency": "HKD",
+          "plan-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00015/S00015-01-000-02-PlanDoc-e.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00015/S00015-01-000-02-PlanDoc-c.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00015/S00015-01-000-02-PlanDoc-c.pdf"
+          },
+          "premium": {
+            "en": "Standard Premium",
+            "zh-hk": "標準保費",
+            "zh-cn": "标准保费"
+          },
+          "premium-doc-url": {
+            "en": "/doc/certifiedplan/sp/S00015/S00015-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-hk": "/doc/certifiedplan/sp/S00015/S00015-01-000-02-StandardPremium-Bilingual.pdf",
+            "zh-cn": "/doc/certifiedplan/sp/S00015/S00015-01-000-02-StandardPremium-Bilingual.pdf"
+          },
+          "parent-product-id": "S00015-01-000-02-001"
+        }
+      ],
+      "has-other-info": "",
+      "has-tax-remark": "Y",
+      "tax-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00015/S00015-VATGST-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00015/S00015-VATGST-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00015/S00015-VATGST-c.pdf"
+      },
+      "hospital-def-remark": "Y",
+      "def-doc-url": {
+        "en": "/doc/certifiedplan/sp/S00015/S00015-Hospital-Definition-e.pdf",
+        "zh-hk": "/doc/certifiedplan/sp/S00015/S00015-Hospital-Definition-c.pdf",
+        "zh-cn": "/doc/certifiedplan/sp/S00015/S00015-Hospital-Definition-c.pdf"
+      },
+      "has-historical-plan": "Y",
+      "remarks": {
+        "en": "# The insurance company offering this Certified Plan has ceased to maintain its registration as a VHIS Provider from 1 December 2023. Upon the effective date of de-registration, Chubb Life Insurance Hong Kong Limited (Registration No. 00044) has become the VHIS Provider and insurance company of this Certified Plan and its certification number starts with S00044.  For the latest product and premium updates of this Certified Plan, please refer to Standard Plan S00044. ",
+        "zh-hk": "#提供本認可產品的保險公司由2023年12月1日起終止註冊為自願醫保的產品提供者。由該撤銷註冊生效日起，安達人壽保險香港有限公司(註冊編號00044)將成為本認可產品的自願醫保的產品提供者及保險公司，其認可產品的編號開首為S00044。就本認可產品最新的產品及保費詳情，請參閱標準計劃S00044。",
+        "zh-cn": "#提供本认可产品的保险公司由2023年12月1日起终止注册为自愿医保的产品提供者。由该撤销注册生效日起，安达人寿保险香港有限公司(注册编号00044)将成为本认可产品的自愿医保的产品提供者及保险公司，其认可产品的编号开首为S00044。就本认可产品最新的产品及保费详情，请参阅标准计划S00044。"
+      },
+      "renewal-only": "",
+      "de-reg": "Y",
+      "unavailable": "Y"
+    }
+  ]
+}

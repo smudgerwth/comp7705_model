@@ -4,6 +4,7 @@ import joblib
 import numpy as np
 from tensorflow.keras.models import load_model
 import traceback # For more detailed error logging
+import recommendation
 
 app = Flask(__name__)
 
@@ -210,6 +211,7 @@ def predict():
         health_assessment_message = get_health_assessment(health_score_0_100)
         premium_multiplier = calculate_discount(health_score_0_100)
 
+        recommendation_list = recommendation.get_plan_details(int(age), sex, smoker)
         # Prepare the response data, ensuring field names match Swift struct where applicable
         response_data = {
             # Fields expected by Swift InsurancePrediction struct
@@ -222,7 +224,8 @@ def predict():
             'exercise_frequency': int(exercise_freq),
             'steps_converted': steps,
             'raw_model_output': round(raw_model_output, 4) if raw_model_output is not None else None,
-            'health_model_used': model_name_for_output
+            'health_model_used': model_name_for_output,
+            'recommendation_list': recommendation_list
         }
 
         if premium_multiplier is None:
