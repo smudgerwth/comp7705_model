@@ -16,16 +16,7 @@ The system is designed to provide insurance companies with a more accurate risk 
 
 The data flow is designed for efficient and secure processing of user data:
 
-\+-----------------+      \+-----------------+      \+----------------------+      \+------------------+  
-| User's Device   |      | Your App        |      | Backend Server (API) |      | AI Models        |  
-| (Phone/Wearable)|-----\>| (Data Collection) |-----\>| (Data Processing)    |-----\>| (TF/Scikit-learn)|  
-\+-----------------+      \+-----------------+      \+----------------------+      \+------------------+  
-      ^                                                  |                             |  
-      | (Results)                                        | (Storage/Cache)             | (Calculate Score/Premium)  
-      |                                                  v                             v  
-      \+--------------------------------------------------+                             \+------------------+  
-                                                       |                             |  
-                                                       \+-----------------------------+
+<img width="839" height="1061" alt="螢幕截圖 2025-07-13 下午2 39 40" src="https://github.com/user-attachments/assets/7c0e227c-c48e-4c25-9974-8f7d17d7409e" />
 
 1. **Data Collection**: The client application securely gathers health data from the user's phone and wearable devices (e.g., Apple Watch, Fitbit).  
 2. **API Request**: The app sends the data via an encrypted HTTPS request to the backend server.  
@@ -199,11 +190,6 @@ We take user data privacy and security very seriously.
 * **Transport Encryption**: All communication between the client and server is enforced over TLS 1.2+.  
 * **Data Anonymization**: All Personally Identifiable Information (PII) is removed or hashed during data analysis and model training.  
 * **Access Control**: The API endpoints should be protected by a robust authentication/authorization mechanism in a production environment.  
-* **Compliance**: Our data handling procedures are designed to comply with GDPR and other regional data protection regulations.
-
-## **Contributing**
-
-We welcome contributions to this project\! Please refer to the CONTRIBUTING.md file for detailed contribution guidelines, code style, and the Pull Request process.
 
 ## **License**
 
