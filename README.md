@@ -216,6 +216,14 @@ python api_server_rf_health_score.py
 gunicorn --workers 4 --bind 0.0.0.0:5050 api_server_rf_health_score:app
 ```
 
+### **Optional: Retraining the Models**
+
+If you wish to retrain the models with the original datasets, you can download them from the links below. Place the contents of each zip file into a corresponding folder within the project directory. You will then need to run the training scripts (not included in this server setup).
+
+* CASData Training: [Download Link](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/yiklchan_connect_hku_hk/EY4Qu3dH-sZApc_rKJlHNyEBX4il7oH7tbVe7G6wYov0YA)  
+* HealthScoreData: [Download Link](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/yiklchan_connect_hku_hk/EYlplKsNXllCrlGiu2ZSw78BzZHBIH7KCY-qIznmeQgumw)  
+* insurance\_data: [Download Link](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/yiklchan_connect_hku_hk/ETfkZ4ogHilIrQyLoBQQUbEBkVZlpeNciEAD54mEP5mF0A?e=cw3kfp)
+
 ## **Usage Example (cURL)**
 
 You can test the endpoint using curl or any API client.
