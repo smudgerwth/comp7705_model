@@ -151,8 +151,8 @@ Follow these steps to set up and run the server in a local environment.
 1. **Clone the Repository**
 
 ```shell
-git clone https://github.com/your-username/health-insurance-ai.git  
-cd health-insurance-ai
+git clone https://github.com/smudgerwth/comp7705_model.git  
+cd comp7705_model
 ```
 
 2.   
