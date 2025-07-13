@@ -53,8 +53,7 @@ This is the core endpoint that receives user health data and returns a full pred
 
 #### **Request Body**
 
-The request must be a JSON object with the following structure. Fields marked with \* are required.
-
+```json
 {  
   "age": 35,  
   "bmi": 24.5,  
@@ -64,116 +63,167 @@ The request must be a JSON object with the following structure. Fields marked wi
   "sleepHours": 7.5,  
   "heartRate": 65  
 }
+```
 
-* age\* (number): User's age.  
-* bmi\* (number): User's Body Mass Index.  
-* sex (integer): User's gender (1 for male, 0 for female). Defaults to 1\.  
-* smoker (integer): Smoking status (1 for smoker, 0 for non-smoker). Defaults to 0\.  
-* steps (integer): Average daily steps. Defaults to 5000\.  
-* sleepHours (number): Average hours of sleep per night. Defaults to 7\.  
-* heartRate (number): Average resting heart rate. Defaults to 72\.
+* **age** (number, required): User's age.  
+* **bmi** (number, required): User's Body Mass Index.  
+* **sex** (integer): User's gender (1 for male, 0 for female). Defaults to 1\.  
+* **smoker** (integer): Smoking status (1 for smoker, 0 for non-smoker). Defaults to 0\.  
+* **steps** (integer): Average daily steps. Defaults to 5000\.  
+* **sleepHours** (number): Average hours of sleep per night. Defaults to 7\.  
+* **heartRate** (number): Average resting heart rate. Defaults to 72\.
 
 #### **Success Response (200 OK)**
 
-The response is a JSON object containing the full analysis.
+**Example (Approved with Surcharge):**
 
-**Example (Approved with Discount):**
-
+```json
 {  
-    "base\_premium": 1250.75,  
-    "health\_score": 88.5,  
-    "discount\_rate": "20.0%",  
-    "final\_premium": 1000.60,  
-    "health\_assessment": "Approved\! Preferred risk applicant \- 20% discount",  
-    "recommendation\_list": \[  
-        {  
-            "plan\_name": "Comprehensive Health Guard",  
-            "premium": "1000",  
-            "coverage\_details": "Covers hospitalization, surgery, and critical illness."  
-        }  
-    \],  
-    "age\_group": 2,  
-    "bmi\_category": "normal",  
-    "exercise\_frequency": 6,  
-    "health\_model\_used": "Neural Network",  
-    "raw\_model\_output": 88.5,  
-    "steps\_converted": 12050  
+  "age_group": 4,  
+  "base_premium": 26571.271484375,  
+  "bmi_category": "normal",  
+  "discount_rate": "-50.0%",  
+  "exercise_frequency": 0,  
+  "final_premium": 39856.91,  
+  "health_assessment": "Approved! Moderate risk applicant - 150% premium applied",  
+  "health_model_used": "Neural Network",  
+  "health_score": 62.1,  
+  "raw_model_output": 62.1021,  
+  "recommendation_list": {  
+    "error": null,  
+    "plans": [  
+      {  
+        "certification-no": "S00012-01-000-03",  
+        "company-name": "Bolttech Insurance (Hong Kong) Company Limited",  
+        "plan-doc-url": "https://www.vhis.gov.hk/doc/certifiedplan/sp/S00012/S00012-01-000-03-PlanDoc-e.pdf",  
+        "plan-name": "VChoice Voluntary Health Insurance Plan",  
+        "premium": 6736  
+      },  
+      {  
+        "certification-no": "S00014-01-000-02",  
+        "company-name": "AXA China Region Insurance Company (Bermuda) Limited",  
+        "plan-doc-url": "https://www.vhis.gov.hk/doc/certifiedplan/sp/S00014/S00014-01-000-02-PlanDoc-e.pdf",  
+        "plan-name": "AXA WiseGuard Medical Insurance Plan",  
+        "premium": 7511  
+      }  
+    ]  
+  },  
+  "steps_converted": 1000  
 }
+```
 
 **Example (Rejected):**
 
+```json
 {  
-    "base\_premium": 1800.50,  
-    "health\_score": 35.2,  
-    "discount\_rate": "N/A",  
-    "final\_premium": 0.0,  
-    "health\_assessment": "Reject\! Application declined due to critical health risk",  
-    "recommendation\_list": \[\],  
-    "age\_group": 3,  
-    "bmi\_category": "overweight",  
-    "exercise\_frequency": 1,  
-    "health\_model\_used": "Neural Network",  
-    "raw\_model\_output": 35.2,  
-    "steps\_converted": 3500  
+  "base_premium": 32040.5,  
+  "health_score": 38.7,  
+  "discount_rate": "N/A",  
+  "final_premium": 0.0,  
+  "health_assessment": "Reject! Application declined due to critical health risk",  
+  "recommendation_list": {  
+    "error": "Application rejected, no plans available.",  
+    "plans": []  
+  },  
+  "age_group": 4,  
+  "bmi_category": "obese",  
+  "exercise_frequency": 0,  
+  "health_model_used": "Neural Network",  
+  "raw_model_output": 38.7,  
+  "steps_converted": 1500  
 }
+```
 
 #### **Error Response (400 Bad Request)**
 
-If required data is missing or invalid.
-
+```json
 {  
   "error": "Missing required parameters",  
-  "expected": \["age", "bmi"\],  
-  "received": \["smoker"\]  
+  "expected": ["age", "bmi"],  
+  "received": ["smoker"]  
 }
+```
 
 ## **Installation and Setup**
 
 Follow these steps to set up and run the server in a local environment.
 
-1. **Clone the Repository**  
-   git clone https://github.com/your-username/health-insurance-ai.git  
-   cd health-insurance-ai
+1. **Clone the Repository**
 
-2. **Create a Virtual Environment**  
-   python \-m venv venv  
-   source venv/bin/activate  \# On Windows, use \`venv\\Scripts\\activate\`
+```shell
+git clone https://github.com/your-username/health-insurance-ai.git  
+cd health-insurance-ai
+```
 
-3. Install Dependencies  
-   Create a requirements.txt file with the following content:  
-   Flask  
-   pandas  
-   numpy  
-   scikit-learn  
-   joblib  
-   tensorflow
+2.   
+   **Create a Virtual Environment**
 
-   Then, run the installation command:  
-   pip install \-r requirements.txt
+```shell
+python -m venv venv  
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+```
 
-4. Place Model Files  
-   Ensure the following model and scaler files are in the root directory of the project:  
-   * health\_score\_nn\_model.keras  
-   * random\_forest\_health\_score\_model.joblib  
-   * insurance\_nn\_model\_no\_child.keras  
-   * scaler.pkl  
-   * preprocessor.pkl  
-   * health\_score\_scaler.pkl  
-5. Run the Server  
-   For development:  
-   python api\_server\_rf\_health\_score.py
+3.   
+   **Install Dependencies**
 
-   The server will start on http://localhost:5050.  
-   For production, it is recommended to use a WSGI server like Gunicorn:  
-   gunicorn \--workers 4 \--bind 0.0.0.0:5050 api\_server\_rf\_health\_score:app
+    Create a `requirements.txt` file with the following content:
+
+```
+Flask  
+pandas  
+numpy  
+scikit-learn  
+joblib  
+tensorflow
+```
+
+4.   
+   Then, run the installation command:
+
+```shell
+pip install -r requirements.txt
+```
+
+5.   
+   **Place Model Files**
+
+    Ensure the following model and scaler files are in the root directory of the project:
+
+```
+health_score_nn_model.keras  
+random_forest_health_score_model.joblib  
+insurance_nn_model_no_child.keras  
+scaler.pkl  
+preprocessor.pkl  
+health_score_scaler.pkl  
+```
+
+6.   
+   **Run the Server**
+
+    For development:
+
+```shell
+python api_server_rf_health_score.py
+```
+
+7.   
+   The server will start on `http://localhost:5050`.
+
+    For production, it is recommended to use a WSGI server like Gunicorn:
+
+```shell
+gunicorn --workers 4 --bind 0.0.0.0:5050 api_server_rf_health_score:app
+```
 
 ## **Usage Example (cURL)**
 
 You can test the endpoint using curl or any API client.
 
-curl \-X POST http://localhost:5050/predict \\  
-\-H "Content-Type: application/json" \\  
-\-d '{  
+```shell
+curl -X POST http://localhost:5050/predict \  
+-H "Content-Type: application/json" \  
+-d '{  
     "age": 40,  
     "bmi": 28,  
     "sex": 0,  
@@ -182,6 +232,7 @@ curl \-X POST http://localhost:5050/predict \\
     "sleepHours": 6.5,  
     "heartRate": 75  
 }'
+```
 
 ## **Data Privacy and Security**
 
